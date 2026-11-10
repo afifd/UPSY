@@ -10,6 +10,46 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "Terminal",
+			"Enabled": true
+		},
+		{
+			"Name": "MCPClientToolset",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelContextProtocol",
+			"Enabled": true
+		},
+		{
+			"Name": "AllToolsets",
+			"Enabled": true
+		},
+		{
+			"Name": "AIModuleToolset",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimationAssistantToolset",
+			"Enabled": true
+		},
+		{
+			"Name": "EditorToolset",
+			"Enabled": true
+		},
+		{
+			"Name": "GASToolsets",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraToolsets",
+			"Enabled": true
+		},
+		{
+			"Name": "PhysicsToolsets",
+			"Enabled": true
 		}
 	]
 }
